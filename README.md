@@ -1,0 +1,1 @@
+This repository is a showcase of some Python projects I have worked on throughout my tenure at West Chester University studying Computer Science. The projects were both personal and others used for Unversity level work, nonetheless improving my programming skills with extensive practice in logic and basic computational mathematicss.
