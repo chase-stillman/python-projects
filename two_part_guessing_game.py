@@ -1,3 +1,4 @@
+#this program is a very difficult game in which two numbers are randomly generated using the random library in Python, then their product and sum is found. the program will tell the user the product, which must be then used to determine the sum of the two numbers. the range of numbers is currently set to 128 each, but can of course be lowered to make the game a little more achievable, while still challenging.
 import random
 #function to find random numbers and their sum and product
 def find_random_nums():
